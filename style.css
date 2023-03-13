@@ -106,3 +106,29 @@ main {
     height: 50px;
     background-color: white;
 }
+
+.footer--title-gray {
+    color: grey;
+}
+
+.footer-img1 {
+    background-image: url(img/monitor.jpg);
+    width: 280px;
+    height: 220px;
+    margin-top: 20px;
+}
+
+#footer--img-color {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.footer-img2 {
+    background-image: url(img/graph.jpg);
+    width: 280px;
+    height: 200px;
+    margin-top: 20px;
+}
